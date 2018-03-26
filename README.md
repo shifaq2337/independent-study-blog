@@ -1,4 +1,4 @@
-# Independent Study Blog 
+# Independent Study Findings
 #### By _Shifa Quddus_ 
 ---
 ### [Week One](entries/wk-1.md) 
