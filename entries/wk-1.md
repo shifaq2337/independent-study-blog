@@ -12,7 +12,7 @@ As I mentioned in the previous section, I do not consider using only EarSketch a
 ### Exploring on EarSketch 
 When I first went to the [EarSketch](https://earsketch.gatech.edu/landing/#/) website, I watched the video they have on their landing page. Then, I clicked on the green "Get Started" button on the upper-right hand corner of the navigation bar. This action opened a new tab and I was greeted by a coding platform that looked similar to cloud9. 
 
-#### **The View:**
+#### The View:
 
 ![EarSketch](../images/EarSketch.PNG)
 
@@ -20,7 +20,7 @@ When I first went to the [EarSketch](https://earsketch.gatech.edu/landing/#/) we
  2. **Label '2'** is the **Code Editor** and you can click on the 'Click here to create a new script!' to create a new script and code music! Like how we create an app-sandbox to test out some code. That is how we also create a file. 
  3. **Label '3'** is where the sound collections are located. You can search for a sound or add your own sound. Also, there are filters you can use to search for a specific genre of sound collections. For example, when I click on the green 'Genres' tab and select 'DUBSTEP', I will receive a sound collection of sound constants labeled with 'DUBSTEP'. I can click on the green play button to hear one of the sound constants from the lists. You cannot see in the screenshot, but there are to other icons next to the play icon/button. There is a star icon to add a sound constant to Favorites and there is a clipboard icon that allows you to paste a sound constant into the code editor without you having to copy and paste it yourself manually. 
 
-#### **Example:** 
+#### Example: 
 
 ![test-ex1](../images/test-ex1.PNG)
 
