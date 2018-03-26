@@ -1,6 +1,7 @@
 ## Week One: _Picking a topic for Independent Study_   
 
 ![ersch_logo](../images/earsketch_logo.jpg)  
+
 ---
 
 ### Decision 
