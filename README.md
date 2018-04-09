@@ -2,7 +2,7 @@
 #### By _Shifa Quddus_ 
 ---
 ### [Week One](entries/wk-1.md) 
-### Week Two 
+### [Week Two](entries/wk-2.md) 
 ### Week Three
 ### Week Four
 ### Week Five
