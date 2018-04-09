@@ -34,7 +34,7 @@ I chose to learn how to code on EarSketch in Python rather than JavaScript becau
 
 **_NOTE: The Console does not tell you that you have a syntax/logic/runtime error, but it implicitly tells you what your error is._** For example, in the example below, you can see that the Console shows that there is a Parse Error on line 19. We can assume that this error is both a syntax error and a runtime error. *I honestly did not know what a Parse Error was, so I searched for a definition of it on Google.*
 
-##### Parse Error Example: 
+#### Parse Error Example: 
 
 ![ParseError](../images/parse-error.PNG)
 
@@ -74,11 +74,14 @@ I chose to learn how to code on EarSketch in Python rather than JavaScript becau
 ### Impression of the EarSketch Curriculum
 The EarSketch Curriculum is very straight-forward. The vocabulary words are all defined by EarSketch within the Curriculum. **_Do you know what that means? I do not even have to open a new tab to search a word I do not know on Google! Plus, it saves me so much time from stressing about words I am not familiar with!_** His/Her Majesty, EarSketch has helpful code-along videos within the EarSketch Curriculum! *That helps me understand the code better.* Of course, when I do not understand a vocabulary word,—*even after reading the definition or explanation of the term*—there are videos with a person explaining the term more specifically and if the term can be audibly demonstrated there are audio file examples that help you audibly understand the term. The EarSketch Curriculum is well organized. There are 3 main units and within these units are chapters. Additional curricula is available with links to an [online textbook](http://earsketch.gatech.edu/itec2120/book.html), a [free Massive Open Online Course (MOOC)](https://www.coursera.org/learn/music-technology/), and an [8-week introduction program to Python MC](https://pythonmc.trinket.io/python-mc-8-week-introduction-to-python#/getting-started-with-python-mc/what-is-python-mc). Once you are done with each chapter in a unit, there is a chapter summary and there is a small quiz for self-checking your understanding of the chapter. 
 
-##### Examples of Chapter Quizzes I took
+#### Examples of Chapter Quizzes I took
 
 ![quiz1.1](../images/quiz1-1.PNG)
+
 ![quiz1.2](../images/quiz1-2.PNG)
+
 ![quiz1.3](../images/quiz1-3.PNG)
+
 ![quiz1.4](../images/quiz1-4.PNG)
 
 ### Takeaways
