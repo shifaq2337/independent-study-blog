@@ -4,7 +4,7 @@
 ### [Week One](entries/wk-1.md) 
 ### [Week Two](entries/wk-2.md) 
 ### [Week Three](entries/wk-3.md)
-### Week Four
+### [Week Four](entries/wk-4.md)
 ### Week Five
 ### Week Six
 ### Week Seven
