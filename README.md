@@ -6,7 +6,7 @@
 ### [Week Three](entries/wk-3.md)
 ### [Week Four](entries/wk-4.md)
 ### [Week Five](entries/wk-5.md)
-### Week Six
+### [Week Six](entries/wk-6.md)
 ### Week Seven
 ### Week Eight
 ### Week Nine
