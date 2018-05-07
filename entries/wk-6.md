@@ -13,7 +13,7 @@ I am sure you are not interested at all and do not want to know. However, I have
 
 **The first thing I did after I picked the photo was write down my observations about the picture.** 
 
-#### My Observations:
+### My Observations:
 
 - **Sunset _reflection_** in the mountains. 
 - **Roadside.**
