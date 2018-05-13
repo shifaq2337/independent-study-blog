@@ -20,7 +20,7 @@ I was going to include a link to the google doc on which my [**notes about EarSk
 
 #### I have another piece of news to tell you! Try to Guess!
 
-I changed the image (the image from my previous entry) I was working on to...**THIS!**
+I changed the image (from my previous entry) I was working on to...**THIS!**
 
 ![Muse](../images/dark-forest.jpg) 
 ###### (source: staticflickr)
