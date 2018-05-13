@@ -1,4 +1,4 @@
-## Week 7: MVP finally!
+## Week 7: MVP Finally!
 
 Apparently, last week I was having "decision paralysis", *no my brain was not actually paralyzed*. **"Decision paralysis"** formally known as **Analysis paralysis** is the state of over-analyzing or over-thinking a situation which causes a person to not be able to make a decision or perform an action. I was over-thinking about what sort of music to make/code. I realized I should not waste any more time and do some research about compatible instruments instead. Most of the articles/resources I found did not really apply to coding music since they were based on real instruments, but they were helpful. The articles gave me a sense of what sounds may be compatible with each other. 
 
