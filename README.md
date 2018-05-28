@@ -1,4 +1,4 @@
-# Independent Study Findings
+# Independent Study Findings: EarSketch
 #### By _Shifa Quddus_ 
 ---
 ### [Week One: _Picking a topic for Independent Study_](entries/wk-1.md) 
