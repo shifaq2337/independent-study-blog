@@ -1,4 +1,4 @@
-## Week 6: MVP, MVP, MVP, but not quite there yet!
+## Week 6: _MVP, MVP, MVP, but not quite there yet!_
 
 ### What is MVP?
 What is an MVP? Is it a *Most Valuable Player*? *Most Villainous Person*? *Most Victorious Protagonist*?  None of the above. **MVP stands for Minimum Viable Product!**

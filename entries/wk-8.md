@@ -1,4 +1,4 @@
-## Week 8: Final Touches
+## Week 8: _Final Touches_
 
 Sometimes you think the solution to your problem is way more complicated than it really is. *I know I am not the only one who complicates things in my mind.* I thought I would need a for loop to do something like the example in EarSketch of Sonfication. However, it all just depends on what you want to accomplish. I realized by the end of this week that what I wanted to accomplish did not require for loops (because that complicates what I want to accomplish and makes me feel lost).
 

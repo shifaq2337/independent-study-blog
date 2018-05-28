@@ -1,4 +1,4 @@
-## Week 9: Preparing to Present 
+## Week 9: *Preparing to Present* 
 
 Presentations. We all have a wide range of reactions when we hear the word "presentations". Some people just seem very confident and are able to present smoothly. Some people tend to be nervous and may present a little less smoothly. There is no excuse such as 'that person just can present well' or 'that person has prior experience of presenting' because if you practice presenting and prepare your presentation concisely, you should be able to present more smoothly. 
 
